@@ -1,4 +1,4 @@
-#!/home/developer/521Noturno/python-web/venv_web/bin/python3
+#!venv_web/bin/python3
 
 from flask import Flask, render_template
 from pymongo import MongoClient
